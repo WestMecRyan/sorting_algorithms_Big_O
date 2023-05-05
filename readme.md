@@ -21,7 +21,7 @@
 
 **_Multiply By Two_**
 
-> - [JS Example](./multiply_by_two.js)
+> - [JS Example](./sorting_algorithms/multiply_by_two.js)
 
 > The time complexity of a program that multiplies a single input by two is O(1), which is constant time complexity. This is because the amount of time required to perform the operation remains constant regardless of the input size.
 
@@ -29,14 +29,14 @@
 
 **_Sum of all values_**
 
-> - [JS example](./total_sum.js)
+> - [JS example](./sorting_algorithms/total_sum.js)
 > - [Scratch example](https://scratch.mit.edu/projects/830642600/fullscreen/)
 
 > This program takes an array of numbers as input and calculates the sum of all the numbers in the array. It does this by iterating over each element of the array and adding it to a running total. Since it performs a single operation (addition) for each element in the array, the time complexity of this program is O(n), where n is the number of elements in the array.
 
 **_Maximum Element_**
 
-> - [JS Example](./maximum_element.js)
+> - [JS Example](./sorting_algorithms/maximum_element.js)
 > - [Scratch Example](https://scratch.mit.edu/projects/830629952/fullscreen/)
 
 > The time complexity of this program is O(n), since we only loop through the array once to find the maximum element.
@@ -63,7 +63,7 @@
 
 **_Binary Search_**
 
-> - [JS Example](./binary_search.js)
+> - [JS Example](./sorting_algorithms/binary_search.js)
 > - [Scratch Visualization](https://scratch.mit.edu/projects/834466623/fullscreen/)
 
 > Here's how it works:
@@ -100,7 +100,7 @@
 
 **_Maximum Product of Triplets_**
 
-> - [JS Example](./maximum_product.js)
+> - [JS Example](./sorting_algorithms/maximum_product.js)
 
 > This algorithm has three nested loops, which means it takes O(n^3) time to execute, where n is the length of the input array. The algorithm computes the product of all possible triplets of elements from the array, and returns the maximum product. In the example usage, the algorithm is applied to an array of length 5, and returns the maximum product of any triplet of elements, which is 60.
 
